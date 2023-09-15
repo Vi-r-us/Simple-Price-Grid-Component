@@ -122,7 +122,7 @@ p {
 .attribution { color: black; font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); text-decoration: none; }
 
-@media (min-width: 760px) {
+@media (min-width: 800px) {
   p {
     font-size: 1.2rem;
   }
