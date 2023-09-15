@@ -1,4 +1,4 @@
-# Single price grid component solution
+# Single price grid component
 
 I created a Single Price Grid Component, featuring a modern-looking UI design responsive to all screen sizes. This project was developed as part of the [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). To achieve responsiveness, I utilized a grid layout combined with media queries.
 
